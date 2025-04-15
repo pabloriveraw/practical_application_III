@@ -20,9 +20,7 @@ Each classifier brings different assumptions and learning strategies to the task
 ## Dataset
 
 The analysis is based on a **bank marketing dataset** containing customer and campaign-related features aimed at predicting a binary target variable:  
-**Did the customer subscribe to a term deposit?** (Yes/No)
-
-This dataset is known to be **imbalanced**, with far fewer “Yes” cases than “No” cases.
+**Did the customer subscribe to a term deposit?** (Yes/No). This dataset is known to be **imbalanced**, with far fewer “Yes” cases than “No” cases.
 Data set is in the folder data
 ---
 
