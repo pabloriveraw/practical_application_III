@@ -23,7 +23,7 @@ The analysis is based on a **bank marketing dataset** containing customer and ca
 **Did the customer subscribe to a term deposit?** (Yes/No)
 
 This dataset is known to be **imbalanced**, with far fewer “Yes” cases than “No” cases.
-
+Data set is in the folder data
 ---
 
 ## Business Challenge
