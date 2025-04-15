@@ -63,15 +63,16 @@ This involves:
 
 ## Code Versions
 
-### [`Improve_and_Compare_ver1.ipynb`](./Pablo_Rivera_practical_application_III.ipynb)
+### [`Improve_and_Compare_ver1`]( inside of the Pablo Rivera practical application_III.ipynb )
 - Runs baseline models with default hyperparameters.
 - Includes basic preprocessing, training, testing, and metric calculation.
 - Provides initial comparison to identify strong and weak models.
 
-### [`Improve_and_Compare_ver2.ipynb`](./Pablo%20Rivera%20practical%20application_III.ipynb)
+### [`Improve_and_Compare_ver2`](Pablo Rivera practical application_III.ipynb)
 - Enhances each model using **GridSearchCV** for hyperparameter tuning.
 - Includes **training time**, **cross-validation accuracy**, and **F1-score** for deeper evaluation.
 - Adds performance logging and saves model reports to `.csv` and `.txt` files.
+- Add Classification Report for each model.
 
 ---
 
