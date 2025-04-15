@@ -1,0 +1,5 @@
+Model,Train time,Best Param,Best CV Acc,Test Acc,Precision,Recall,F1-score
+K-Nearest Neighbors,6.972,"{'classifier__n_neighbors': 7, 'classifier__weights': 'distance'}",0.574,0.608,0.169,0.535,0.257
+Decision Tree,4.245,"{'classifier__max_depth': 9, 'classifier__min_samples_split': 2}",0.652,0.791,0.293,0.457,0.357
+Logistic Regression,23.559,"{'classifier__C': 0.1, 'classifier__penalty': 'l1', 'classifier__solver': 'liblinear'}",0.583,0.587,0.165,0.557,0.254
+Support Vector Machine,2.177,,,0.694,0.211,0.519,0.3
